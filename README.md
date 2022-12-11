@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Developing Web Stuff for Conferences at [Brightstar](https://brightstar.co.nz);
-- 🎤🎙Conference producer, wrangling Speakers and Operations at [TEDxAuckland](https://tedxauckland.com,) 
-- Brewing my own Soju 🍺
+- 🎤 Conference producer, wrangling Speakers and Operations at [TEDxAuckland](https://tedxauckland.com,) 
+- 🍺 Brewing my own Soju 
 
 ##### BIO
 
