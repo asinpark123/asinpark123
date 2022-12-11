@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm, Ah Shin! 👋
 
-<!--
-**asinpark123/asinpark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-Stack Developer based in Auckland, New Zealand.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Developing Web Stuff for Conferences at [Brightstar](https://brightstar.co.nz) website;
+- 🎤🎙Conference producer, wrangling Speakers and Operations at [TEDxAuckland](https://tedxauckland.com,) 
+- Brewing my own Soju 🍺
+
+##### BIO
+
+
+- ⚙️ I use daily: `.php`, `laravel`,`drupal`, `.html`, `.css`
+- 🌍 I'm mostly active within the **TEDxAuckland Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **conferences**, **events**, **webdevelopment**,, and**dancing**,  
+- 📫 Reach me: [www.linkedin.com/in/ahshinpark](www.linkedin.com/in/ahshinpark)
+- ⚡️ Fun fact: I'm a huge fan of distilling soju
