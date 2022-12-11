@@ -1,4 +1,4 @@
-# Hi there, I'm, Ah Shin! 👋
+# Hi there, I am Ah Shin! 👋
 
 ## I'm a Full-Stack Developer based in Auckland, New Zealand.
 
