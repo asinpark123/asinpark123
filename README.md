@@ -14,6 +14,6 @@
 - ⚙️ I use daily: `.php`, `laravel`,`drupal`, `.html`, `.css`
 - 🌍 I'm mostly active within the **TEDxAuckland Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **conferences**, **events**, **webdevelopment**,, and**dancing**,  
-- 📫 Reach me: [www.linkedin.com/in/ahshinpark](www.linkedin.com/in/ahshinpark)
+- 💬 Ping me about **conferences**, **events**, **webdevelopment**,, and **dancing**,  
+- 📫 Reach me: [https://www.linkedin.com/in/ahshinp/](https://www.linkedin.com/in/ahshinp/)
 - ⚡️ Fun fact: I'm a huge fan of distilling soju
