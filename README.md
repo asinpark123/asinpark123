@@ -16,4 +16,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **conferences**, **events**, **webdevelopment**,, and **dancing**,  
 - 📫 Reach me: [https://www.linkedin.com/in/ahshinp/](https://www.linkedin.com/in/ahshinp/)
-- ⚡️ Fun fact: I'm a huge fan of distilling soju
+- ⚡️ Fun fact: I'm a huge fan of distilling soju and currently practicing flying drones!
