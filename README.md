@@ -4,16 +4,19 @@
 
 ##### NOW
 
-- ✨ Developing Web Stuff for Conferences at [Brightstar](https://brightstar.co.nz);
+- ✨ Data Migration and Developing Web Stuff for [Global Linings](https://globallinings.co.nz) & [Global Fire](https://globalfire.co.nz)
 - 🎤 Conference producer, wrangling Speakers and Operations at [TEDxAuckland](https://tedxauckland.com,) 
-- 🍺 Brewing my own Soju 
+- 🚁 Flying Drones
+- 🍺 Brewing my own Soju
 
 ##### BIO
 
 
-- ⚙️ I use daily: `.php`, `laravel`,`drupal`, `.html`, `.css`
+- ⚙️ I use daily: `React`, `.css`, `.html`, `SQL`
+- 📜 I used to use daily: `.php`, `laravel`,`drupal`
+- 📜 Previously developed Web Stuff for [Brightstar](https://brightstar.co.nz);
 - 🌍 I'm mostly active within the **TEDxAuckland Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **conferences**, **events**, **webdevelopment**,, and **dancing**,  
+- 💬 Ping me about **webdevelopment**, **conferences**, **events**, **drones**, and **dancing**,  
 - 📫 Reach me: [https://www.linkedin.com/in/ahshinp/](https://www.linkedin.com/in/ahshinp/)
 - ⚡️ Fun fact: I'm a huge fan of distilling soju and currently practicing flying drones!
