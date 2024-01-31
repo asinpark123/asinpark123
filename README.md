@@ -1,6 +1,6 @@
 # Hi there, I am Ah Shin! 👋
 
-## I'm a Full-Stack Developer based in Auckland, New Zealand.
+## I'm a Front-end (aspiring to be Full-Stack) Developer based in Auckland, New Zealand.
 
 ##### NOW
 
