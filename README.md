@@ -12,11 +12,11 @@
 ##### BIO
 
 
-- ⚙️ I use daily: `React`, `.css`, `.html`, `SQL`
+- ⚙️ I use daily: `.JavaScript`, `.css`, `.html`, `React`, `SQL`
 - 📜 I used to use daily: `.php`, `laravel`,`drupal`
 - 📜 Previously developed Web Stuff for [Brightstar](https://brightstar.co.nz);
 - 🌍 I'm mostly active within the **TEDxAuckland Community**
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Open Source**, **Networks**
 - 💬 Ping me about **webdevelopment**, **conferences**, **events**, **drones**, and **dancing**,  
 - 📫 Reach me: [https://www.linkedin.com/in/ahshinp/](https://www.linkedin.com/in/ahshinp/)
 - ⚡️ Fun fact: I'm a huge fan of distilling soju and currently practicing flying drones!
