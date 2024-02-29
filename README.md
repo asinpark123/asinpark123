@@ -5,6 +5,7 @@
 ##### NOW
 
 - ✨ Data Migration and Developing Web Stuff for [Global Linings](https://www.globallinings.co.nz/) & [Global Fire](https://www.globalfire.co.nz/)
+    - Check out the latest website I built from scratch for [Global Fire](https://www.globalfire.co.nz/)
 - 🎤 Conference producer, wrangling Speakers and Operations at [TEDxAuckland](https://tedxauckland.com,) 
 - 🚁 Flying Drones
 - 🍺 Brewing my own Soju
